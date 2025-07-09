@@ -1,5 +1,7 @@
 "# Employee-Data-Management" 
+
 Employee Logger (TypeScript)
+
 Description
 This TypeScript program defines an Employee type to represent employee details including full name, age, department, skills, and activity status. It creates two employee objects (employee1 and employee2) and uses a reusable logEmployee function to print each employee’s details to the console in a readable format.
 
